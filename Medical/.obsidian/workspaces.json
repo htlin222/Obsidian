@@ -1,0 +1,129 @@
+{
+  "workspaces": {
+    "Medical": {
+      "main": {
+        "id": "9fc791fe765f9649",
+        "type": "split",
+        "children": [
+          {
+            "id": "62502394157d00d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-心/01-01-Electrocardiography.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "89100e2a7a2d0f65",
+        "type": "split",
+        "children": [
+          {
+            "id": "148616beac03ae57",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d644fba73871a97c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f37e683d14d6b489",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 271.0383491516113
+      },
+      "right": {
+        "id": "738ac7afd21a0068",
+        "type": "split",
+        "children": [
+          {
+            "id": "52265c23cd8fb8c8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "65fd965d95765b6c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "01-心/01-01-Electrocardiography.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "88a50c36548e770b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "01-心/01-01-Electrocardiography.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "5ff024d408cbc5d5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b09df6afecf7936c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01-心/01-01-Electrocardiography.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "62502394157d00d4"
+    }
+  },
+  "active": "Medical"
+}

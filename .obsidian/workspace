@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "55511c2cd5c5aefc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e2e2bcd94766e98",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0884977bdb2d1d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "79447e0656205ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e4a6b88cb8639d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6e62e91075f45c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cook",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90fc3b5a41d8924a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eec4747034dc68c",
+        "type": "tabs",
+        "dimension": 32.80632411067194,
+        "children": [
+          {
+            "id": "9135add274513e2b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf9816cc8d321d2a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "74b79d88c42a6d4b",
+        "type": "tabs",
+        "dimension": 26.350461133069828,
+        "children": [
+          {
+            "id": "b6f2642661949a46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md"
+              }
+            }
+          },
+          {
+            "id": "b126382e62a55ca2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e0cf99e75fb51e0",
+        "type": "tabs",
+        "dimension": 40.843214756258234,
+        "children": [
+          {
+            "id": "553629af0b645f8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69b3be416d82e511",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "6e2e2bcd94766e98",
+  "lastOpenFiles": [
+    "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md",
+    "Medical/04-腎🍌/POLYURIA.md",
+    "Medical/04-腎🍌/04-02-Sodium-and-Water-Homeostasis.md",
+    "Medical/04-腎🍌/HYPERNATREMIA.md",
+    "Medical/04-腎🍌/04-01-Acid-Base-Disturbances.md",
+    "Medical/04-腎🍌/Hyponatremia Notes.md",
+    "Medical/04-腎🍌/METABOLIC ALKALOSIS.md",
+    "Medical/04-腎🍌/METABOLIC ACIDOSIS.md",
+    "Medical/01-心🫀/EKG/01-01-Electrocardiography.md",
+    "Medical/01-心🫀/01-05-Acute-Coronary-Syndromes.md"
+  ]
+}

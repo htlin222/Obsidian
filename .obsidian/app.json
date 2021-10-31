@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "Medical/附件",
+  "foldIndent": true,
+  "foldHeading": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "promptDelete": true,
+  "vimMode": true
+}

@@ -1,0 +1,20 @@
+{
+  "userAdmonitions": {
+    "note": {
+      "type": "note",
+      "color": "247, 38, 38",
+      "icon": {
+        "name": "bahai",
+        "type": "font-awesome"
+      },
+      "command": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "6.3.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "syncLinks": false,
+  "enableMarkdownProcessor": false
+}
