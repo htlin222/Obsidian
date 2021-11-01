@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Medical/08-風免 💊/On steroid.md",
+            "file": "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md",
             "mode": "source"
           }
         }
@@ -59,32 +59,9 @@
     "type": "split",
     "children": [
       {
-        "id": "5eec4747034dc68c",
-        "type": "tabs",
-        "dimension": 32.80632411067194,
-        "children": [
-          {
-            "id": "9135add274513e2b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "bf9816cc8d321d2a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "74b79d88c42a6d4b",
         "type": "tabs",
-        "dimension": 26.350461133069828,
+        "dimension": 39.21568627450981,
         "children": [
           {
             "id": "b6f2642661949a46",
@@ -92,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medical/08-風免 💊/On steroid.md"
+                "file": "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md"
               }
             }
           },
@@ -112,7 +89,7 @@
       {
         "id": "8e0cf99e75fb51e0",
         "type": "tabs",
-        "dimension": 40.843214756258234,
+        "dimension": 60.7843137254902,
         "children": [
           {
             "id": "553629af0b645f8f",
@@ -120,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medical/08-風免 💊/On steroid.md",
+                "file": "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medical/08-風免 💊/On steroid.md",
+                "file": "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,15 +128,15 @@
   },
   "active": "6e2e2bcd94766e98",
   "lastOpenFiles": [
-    "Medical/08-風免 💊/On steroid.md",
     "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md",
+    "Medical/00-Inbox 📫/Testing.md",
+    "Coding/Vim practice.md",
+    "Coding/Vim.md",
+    "Medical/08-風免 💊/Examination of the Hand and Wrist.md",
+    "Medical/08-風免 💊/Undifferentiated Inflammatory Arthritis.md",
+    "Medical/08-風免 💊/On steroid.md",
     "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md",
     "Medical/04-腎🍌/POLYURIA.md",
-    "Medical/04-腎🍌/04-02-Sodium-and-Water-Homeostasis.md",
-    "Medical/04-腎🍌/HYPERNATREMIA.md",
-    "Medical/04-腎🍌/04-01-Acid-Base-Disturbances.md",
-    "Medical/04-腎🍌/Hyponatremia Notes.md",
-    "Medical/04-腎🍌/METABOLIC ALKALOSIS.md",
-    "Medical/04-腎🍌/METABOLIC ACIDOSIS.md"
+    "Medical/04-腎🍌/04-02-Sodium-and-Water-Homeostasis.md"
   ]
 }
