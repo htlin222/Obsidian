@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md",
+            "file": "Medical/08-風免 💊/On steroid.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md"
+                "file": "Medical/08-風免 💊/On steroid.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md",
+                "file": "Medical/08-風免 💊/On steroid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md",
+                "file": "Medical/08-風免 💊/On steroid.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +151,8 @@
   },
   "active": "6e2e2bcd94766e98",
   "lastOpenFiles": [
+    "Medical/08-風免 💊/On steroid.md",
+    "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md",
     "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md",
     "Medical/04-腎🍌/POLYURIA.md",
     "Medical/04-腎🍌/04-02-Sodium-and-Water-Homeostasis.md",
@@ -158,8 +160,6 @@
     "Medical/04-腎🍌/04-01-Acid-Base-Disturbances.md",
     "Medical/04-腎🍌/Hyponatremia Notes.md",
     "Medical/04-腎🍌/METABOLIC ALKALOSIS.md",
-    "Medical/04-腎🍌/METABOLIC ACIDOSIS.md",
-    "Medical/01-心🫀/EKG/01-01-Electrocardiography.md",
-    "Medical/01-心🫀/01-05-Acute-Coronary-Syndromes.md"
+    "Medical/04-腎🍌/METABOLIC ACIDOSIS.md"
   ]
 }
