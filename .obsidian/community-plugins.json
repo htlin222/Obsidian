@@ -11,5 +11,14 @@
   "obsidian-imgur-plugin",
   "obsidian-kanban",
   "obsidian-spaced-repetition",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-admonition",
+  "obsidian-relative-line-numbers",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-annotator",
+  "obsidian-citation-plugin",
+  "obsidian-codemirror-options",
+  "obsidian-collapse-all-plugin",
+  "file-explorer-note-count",
+  "folder-note-plugin"
 ]

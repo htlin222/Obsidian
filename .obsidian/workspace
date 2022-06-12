@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "55511c2cd5c5aefc",
+    "id": "26b9ceb357234335",
     "type": "split",
     "children": [
       {
-        "id": "6e2e2bcd94766e98",
+        "id": "52a24946d5b76dc2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md",
-            "mode": "source"
+            "file": "Writing/Anki流.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 282
   },
   "right": {
     "id": "90fc3b5a41d8924a",
@@ -69,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md"
+                "file": "Writing/Anki流.md"
               }
             }
           },
@@ -82,6 +83,22 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "c954d4c5e4a2b69f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e5f116d73f6ba08",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ]
@@ -97,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md",
+                "file": "Writing/Anki流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md",
+                "file": "Writing/Anki流.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,19 +141,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6e2e2bcd94766e98",
+  "active": "52a24946d5b76dc2",
   "lastOpenFiles": [
-    "Medical/08-風免 💊/08-01-Approach-to-Rheumatic-Disease.md",
-    "Medical/00-Inbox 📫/Testing.md",
-    "Coding/Vim practice.md",
-    "Coding/Vim.md",
-    "Medical/08-風免 💊/Examination of the Hand and Wrist.md",
-    "Medical/08-風免 💊/Undifferentiated Inflammatory Arthritis.md",
-    "Medical/08-風免 💊/On steroid.md",
-    "Medical/04-腎🍌/04-03-Potassium-Homeostasis.md",
-    "Medical/04-腎🍌/POLYURIA.md",
-    "Medical/04-腎🍌/04-02-Sodium-and-Water-Homeostasis.md"
+    "Writing/Anki流.md",
+    "Writing/Obsidian.md",
+    "Writing/Devonthink版.md",
+    "Writing/未命名 1.md",
+    "Writing/MedScript.md",
+    "Writing/未命名.md",
+    "Code/Python install.md",
+    "Code/vimrc.md",
+    "Code/zsh Setting.md",
+    "Code/Python  Request.md"
   ]
 }

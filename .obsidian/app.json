@@ -7,6 +7,8 @@
   "alwaysUpdateLinks": true,
   "showFrontmatter": true,
   "showLineNumber": true,
-  "promptDelete": true,
-  "vimMode": true
+  "promptDelete": false,
+  "vimMode": false,
+  "legacyEditor": false,
+  "livePreview": true
 }

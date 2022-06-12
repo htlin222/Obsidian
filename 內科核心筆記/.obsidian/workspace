@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "9fc791fe765f9649",
+    "type": "split",
+    "children": [
+      {
+        "id": "f240b8ab4af839a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01心/01-16-Syncope.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5115a06c796bc6f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "322c4abe728a5d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7512253ddfc19df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd233ffd498d8e54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44f870cc9a8f54e0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7955176a2338770",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb94c94b9b49eeb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00552e5db5ab3feb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01心/01-16-Syncope.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "711c08558b4b8987",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01心/01-16-Syncope.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf7ec5f805228392",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb8151b13b89a9cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01心/01-16-Syncope.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f240b8ab4af839a7",
+  "lastOpenFiles": [
+    "01心/01-16-Syncope.md",
+    "01心/01-02-Chest-Pain.md",
+    "04腎/04-07-Nephrolithiasis.md",
+    "04腎/04-06-Urinalysis.md",
+    "04腎/04-05-Glomerular-Disease.md",
+    "04腎/04-04-Renal-Failure.md",
+    "04腎/04-03-Potassium-Homeostasis.md",
+    "04腎/04-01-Acid-Base-Disturbances.md",
+    "04腎/洗腎病人的離子要怎麼注意？.md",
+    "04腎/04-02-Sodium-and-Water-Homeostasis.md"
+  ]
+}

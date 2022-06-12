@@ -1,4 +1,0 @@
--   [Ventricular tachycardia (VT)](https://litfl.com/ventricular-tachycardia-monomorphic-ecg-library/)
--   [Supraventricular tachycardia (SVT)](https://litfl.com/supraventricular-tachycardia-svt-ecg-library/) with aberrant conduction due to bundle branch block
--   SVT with aberrant conduction due to [Wolff-Parkinson-White syndrome](https://litfl.com/pre-excitation-syndromes-ecg-library/)
-- 

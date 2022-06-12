@@ -1,0 +1,12 @@
+{
+  "foldHeading": true,
+  "attachmentFolderPath": "附件",
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "trashOption": "local",
+  "defaultViewMode": "preview",
+  "vimMode": false,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": true
+}

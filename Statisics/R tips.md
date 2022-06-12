@@ -5,3 +5,22 @@
 ```
 這是
 ```
+
+# 必裝包
+```
+install.packages("tidyverse")
+
+install.packages("ggplot2")
+
+install.packages("data.table")
+
+install.packages("tidyr")
+
+install.packages("knitr")
+```
+
+```
+```vb=
+sub dim 
+
+```

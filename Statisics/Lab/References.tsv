@@ -1,0 +1,2 @@
+"DOI#uuid"	"Author(s)#string"	"Title#string"	"Year#date{format:date}"	"Journal#string"	"Pages#string"	"Abstract#text"	"Comment#text"	"Keywords#string"	"URL#url"
+""	""	""	""	""	""	""	""	""	""
